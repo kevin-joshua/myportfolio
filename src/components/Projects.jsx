@@ -43,7 +43,7 @@ export const Projects = () => {
             </a>
           </div>
           <div className='bg-white rounded-lg'>
-            <a href='https://weatherapp-eight-beige.vercel.app/'>
+            <a href='https://appweather-one.vercel.app/'>
               <img
                 src={weatherApp}
                 className='w-full rounded-md px-5 py-5'
