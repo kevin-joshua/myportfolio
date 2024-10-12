@@ -10,11 +10,8 @@ export const Contact = () => {
     <a href='https://github.com/kevin-joshua'>
       <i className="fa-brands fa-github text-5xl"></i>
       </a>
-      <a href='https://www.linkedin.com/in/kevin-joshua-356691288/'>
+      <a href='https://www.linkedin.com/in/kevin-joshua-main/'>
       <i className="fa-brands fa-linkedin text-5xl"></i>
-      </a>
-      <a href='https://www.linkedin.com/in/kevin-joshua-356691288/'>
-      <i className="fa-brands fa-square-instagram text-5xl"></i>
       </a>
       <a href='https://x.com/KevinJoshua02'>
       <i className="fa-brands fa-x-twitter text-5xl"></i>
